@@ -3,8 +3,8 @@ layout: "layouts/homepage.njk"
 hero:
   subTitle: "WE WORK HARD, WE PLAY HARD"
   title:
-    firstPara: "We’re a Design Studio"
-    secondPara: "That Believes In Great Ideas"
+    firstPara: "Ching-Yi's"
+    secondPara: "Portfoilo"
   seeWorkBtn:
     text: "See Our Works"
     link: "#project"
