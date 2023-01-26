@@ -1,20 +1,20 @@
 ---
 layout: "layouts/homepage.njk"
 hero:
-  subTitle: "WE WORK HARD, WE PLAY HARD"
+  subTitle: "GET PASSION FROM EVERYWHERE"
   title:
     firstPara: "Ching-Yi's"
     secondPara: "Portfoilo"
   seeWorkBtn:
-    text: "See Our Works"
+    text: "See My Works"
     link: "#project"
   connectBtn: 
-    text: "Connect with us"
+    text: "Connect with me"
     link: "contact"
 
 portfolio:
-  subTitle: "OUR RECENT WORKS"
-  title: "Crafting experiences and seeking to make the complex clear & beautiful."
+  subTitle: "MY PROJECTS"
+  title: "Natural Language Processing, Deep Learning, Artificial intelligence"
   seeAllbtn:
     link: "portfolio"
     text: "MORE WORKS"

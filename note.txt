@@ -1,0 +1,30 @@
+### script
+npm install -> npx @11ty/eleventy -> npx @11ty/eleventy --serve 
+("npx run dev" dose not work)
+
+### do not use jekyll 
+.nojekyll
+
+### github pages
+recognize index.xxx -> eleventy recognizes 11 template languages
+index.xxx needs to be in root dir
+
+### when to deploy
+when there is no problem on localhost(http://localhost:8081)
+
+### problem 
+- docs generate new index.html, which is not update the localhost so it does not work in local?
+or Browersyncr? -> write change in src, for _site files are written from src -> and then copy index file from _site too root index file
+put index.md in the root is not the right way to do!! the index.md only pretent to fix the main page 
+### question
+- index.html is in every directory?
+- when change the main index.html, others index.html in docs will also be updated? if not, then I need to motify each indexfile manually?
+
+### comment in html file 
+<!---->
+
+### TODO: 
+mutlilingul support?
+some formatting checking is needed? 
+tag page to see the category 
+search engine 
