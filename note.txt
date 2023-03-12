@@ -24,7 +24,8 @@ put index.md in the root is not the right way to do!! the index.md only pretent 
 <!---->
 
 ### TODO: 
+make "Porfolio" -> "Blog" and make "Blog" -> "Project"
+tag page to see the category 
 mutlilingul support?
 some formatting checking is needed? 
-tag page to see the category 
 search engine 
