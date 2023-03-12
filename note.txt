@@ -9,6 +9,9 @@ npm install -> npx @11ty/eleventy -> npx @11ty/eleventy --serve
 recognize index.xxx -> eleventy recognizes 11 template languages
 index.xxx needs to be in root dir
 
+### how to collect customer's query
+
+
 ### when to deploy
 when there is no problem on localhost(http://localhost:8081)
 
