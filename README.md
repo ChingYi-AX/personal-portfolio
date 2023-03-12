@@ -30,7 +30,7 @@ Checkout the live demo [here](https://roxo-eleventy.staticmania.com/)
 -  Dedicated portfolio and blog page.
 -  Well formatted code.
 -  Easy Customization.
--  FabForm.io[static website form](https://fabform.io)
+-  FabForm.io[static website form](https://fabform.io) to collect the submitted query by users
 -  Crafted for Design Agency/ Portfolio
 
 ## Support
